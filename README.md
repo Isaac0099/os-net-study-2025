@@ -20,13 +20,13 @@
 
 ## Week 0 · 28 Apr – 4 May 2025 — Environment Setup (due **Sun 4 May 23:59 MT**)
 
-| Task                                     | Notes                                                             |
-| ---------------------------------------- | ----------------------------------------------------------------- |
-| Install Homebrew, Git, VS Code, Docker   | `brew install git gcc qemu risc-v-tools docker`                   |
-| Build / install RISC‑V toolchain for xv6 | or use `brew tap mitpals/xv6 && brew install xv6-toolchain`       |
-| Clone MIT 6.1810 xv6 repo                | `git clone https://github.com/mit-pdos/xv6-riscv.git`             |
-| Clone Stanford CS144 base                | `git clone https://github.com/sggin/dev.cs144` (or fork official) |
-| Create repo & Notion board               | **Done** ✔                                                        |
+| Task                                     | Notes                                                                      |
+| ---------------------------------------- | ---------------------------------------------------------------------------|
+| Install Homebrew, Git, VS Code, Docker   | `brew install git gcc qemu risc-v-tools docker` **Done** ✔                 |
+| Build / install RISC‑V toolchain for xv6 | or use `brew tap mitpals/xv6 && brew install xv6-toolchain`**Done** ✔      |
+| Clone MIT 6.1810 xv6 repo                | `git clone https://github.com/mit-pdos/xv6-riscv.git`                      |
+| Clone Stanford CS144 base                | `git clone https://github.com/sggin/dev.cs144` (or fork official)          |
+| Create repo & Notion board               | **Done** ✔                                                             |
 | Push README with goals                   | **Done** ✔                                        |
 
 ---
