@@ -16,18 +16,6 @@
 * **GitHub repo:** [https://github.com/Isaac0099/os-net-study-2025](https://github.com/Isaac0099/os-net-study-2025)
 * **Notion board:** [https://www.notion.so/os-net-study-2025-notion-1e61a3188b7780c99f8ef828d8e0bd9c](https://www.notion.so/os-net-study-2025-notion-1e61a3188b7780c99f8ef828d8e0bd9c)
 
----
-
-## Week 0 · 28 Apr – 4 May 2025 — Environment Setup (due **Sun 4 May 23:59 MT**)
-
-| Task                                     | Notes                                                                      |
-| ---------------------------------------- | ---------------------------------------------------------------------------|
-| Install Homebrew, Git, VS Code, Docker   | `brew install git gcc qemu risc-v-tools docker` **Done** ✔                 |
-| Build / install RISC‑V toolchain for xv6 | or use `brew tap mitpals/xv6 && brew install xv6-toolchain`**Done** ✔      |
-| Clone MIT 6.1810 xv6 repo                | `git clone https://github.com/mit-pdos/xv6-riscv.git`                      |
-| Clone Stanford CS144 base                | `git clone https://github.com/sggin/dev.cs144` (or fork official)          |
-| Create repo & Notion board               | **Done** ✔                                                             |
-| Push README with goals                   | **Done** ✔                                        |
 
 ---
 
@@ -77,4 +65,15 @@
 * **Deliverables due:** Sunday 23:59 MT pushed to GitHub & linked in Notion.
 * **Blog cadence:** Week 1, Week 10, Week 18 (plus optional in‑between posts).
 
+---
 
+## Week 0 · 28 Apr – 4 May 2025 — Environment Setup (due **Sun 4 May 23:59 MT**)
+
+| Task                                     | Notes                                                                      |
+| ---------------------------------------- | ---------------------------------------------------------------------------|
+| Install Homebrew, Git, VS Code, Docker   | `brew install git gcc qemu risc-v-tools docker` **Done** ✔                 |
+| Build / install RISC‑V toolchain for xv6 | or use `brew tap mitpals/xv6 && brew install xv6-toolchain`**Done** ✔      |
+| Clone MIT 6.1810 xv6 repo                | `git clone https://github.com/mit-pdos/xv6-riscv.git` **Done** ✔           |
+| Clone Stanford CS144 base                | `git clone https://github.com/sggin/dev.cs144` (or fork official)**Done** ✔|
+| Create repo & Notion board               | **Done** ✔                                                             |
+| Push README with goals                   | **Done** ✔                                        |
