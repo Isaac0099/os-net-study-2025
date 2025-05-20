@@ -1,4 +1,4 @@
-# Self‑Study Plan: Operating Systems & Computer Networking (5 May – 22 September 2025)
+# Self‑Study Plan: Operating Systems & Computer Networking (5 May – 22 September 2025) *(dates now potentially shifted due to job search)*
 
 ---
 
